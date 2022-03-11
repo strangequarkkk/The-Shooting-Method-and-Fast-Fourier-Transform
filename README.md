@@ -2,7 +2,7 @@
 
 Python libraries used: Numpy, Scipy, Matplotlib.pyplot.
 
-In this Coursework/Project, 
+In this Coursework/Project:
 
 1) Wrote a program to plot the Fourier Transform of a function in position domain and explored the fundamental inverse relation between the 'width' of a function in position domain and the 'width' of the fourier transformed function (in k domain).
 
