@@ -1,4 +1,4 @@
-# TheShootingMethod-and-FourierTransform.
+# The-Shooting-Method-and-Fast-Fourier-Transform.
 
 The Python libraries used: Numpy, Scipy, Matplotlib.pyplot.
 
