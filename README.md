@@ -1,4 +1,4 @@
-# The Shooting Method and Fast Fourier Transform.
+# The Shooting Method and Fast Fourier Transform
 
 Python libraries used: Numpy, Scipy, Matplotlib.pyplot.
 
